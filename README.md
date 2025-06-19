@@ -54,3 +54,21 @@ I'm a AI & ML Enthusiast | Researcher | Future AI Engineer
   <a href="https://www.facebook.com/rakibuddin730"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </p>
+---
+## 📊 GitHub Stats and Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDrakib-uddin&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDrakib-uddin&layout=compact&theme=dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDrakib-uddin&theme=dark" alt="GitHub Streak" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=MDrakib-uddin&color=yellow" alt="Profile views" />
+</p>
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDrakib-uddin&theme=darkhub" alt="GitHub Trophies" />
+</p>
