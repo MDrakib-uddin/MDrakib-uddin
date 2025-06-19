@@ -9,7 +9,8 @@ I'm a AI & ML Enthusiast | Researcher | Future AI Engineer
 - Deep Learning  
 - Machine Learning  
 - Computer Vision  
-- Natural Language Processing  
+- Natural Language Processing
+- Large Language Model
 - MLOps  
 - Generative AI  
 - Huggingface Transformers
