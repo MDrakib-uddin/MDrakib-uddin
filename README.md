@@ -56,7 +56,7 @@ I'm a AI & ML Enthusiast | Researcher | Future AI Engineer
 
 </p>
 ---
-## 📊 GitHub Stats and Activity
+📊 GitHub Stats and Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MDrakib-uddin&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
@@ -68,7 +68,7 @@ I'm a AI & ML Enthusiast | Researcher | Future AI Engineer
   <img src="https://komarev.com/ghpvc/?username=MDrakib-uddin&color=yellow" alt="Profile views" />
 </p>
 ---
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MDrakib-uddin&theme=darkhub" alt="GitHub Trophies" />
